@@ -145,6 +145,9 @@
     "zhboner",
     "lyqluis"
   ],
+  "/3kns/:filters?/:order?": [
+    "xzzpig"
+  ],
   "/423down/:category/:type?": [],
   "/4gamers/": [
     "TonyRL"
@@ -1971,6 +1974,9 @@
   ],
   "/gamer/ani/anime/:sn": [],
   "/gamer/ani/new_anime": [],
+  "/gamer520/:category?/:order?": [
+    "xzzpig"
+  ],
   "/gamersecret/:type?/:category?": [
     "nczitzk"
   ],
@@ -2462,7 +2468,7 @@
   "/gumroad/:username/:products": [
     "Fatpandac"
   ],
-  "/guokr/:channel": [
+  "/guokr/column/:channel": [
     "DHPO",
     "hoilc"
   ],
@@ -6397,6 +6403,10 @@
   ],
   "/zju/physics/:type": [
     "Caicailiushui"
+  ],
+  "/zjut/news/:type": [
+    "junbaor",
+    "yikZero"
   ],
   "/zjut/da/:type": [
     "yikZero"
