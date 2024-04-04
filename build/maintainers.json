@@ -3386,6 +3386,9 @@
   "/luogu/user/feed/:uid": [
     "solstice23"
   ],
+  "/luolei/": [
+    "nczitzk"
+  ],
   "/luxiangdong/archive": [
     "Levix"
   ],
@@ -5729,6 +5732,9 @@
   ],
   "/ustc/jwc/:type?": [
     "hang333"
+  ],
+  "/ustc/math/:type?": [
+    "ne0-wu"
   ],
   "/ustc/sist/:type?": [
     "jasongzy"
